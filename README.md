@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIOTION*:
+
 Introduction:
 As part of the internship project, I developed a simple AI chatbot using Python and Natural Language Processing (NLP) techniques. The goal was to build a chatbot capable of responding to user inputs in a human-like manner, demonstrating basic conversational skills and intent recognition. This project helps in understanding how machines can process and respond to natural language.
 
@@ -90,3 +91,4 @@ Conclusion:
 This project helped me understand the foundational concepts of NLP and chatbot development. While the chatbot is simple, it lays the groundwork for more advanced bots that could include machine learning or integration with external APIs. The experience has deepened my knowledge of Python and given me confidence in developing real-world applications using artificial intelligence.
 
 #OUTPUT#
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/9b1283af-7451-4a3e-91eb-778aaa09d2f3" />
